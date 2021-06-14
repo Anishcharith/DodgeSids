@@ -1,3 +1,6 @@
 testing godot  
 desktop only  
-dodge sids irl as well
+space bar to launch, arrow keys to move
+
+protip : dodge sids irl as well
+
